@@ -2,8 +2,8 @@ Installation
 --------------
 Install module requests terlebih dahulu
 
-    pip install requests
+	pip install requests
 
 Usage
 -----
-py checkBTC.py
+	py checkBTC.py
