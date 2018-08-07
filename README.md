@@ -4,14 +4,9 @@ Installation
 --------------
 Install module requests terlebih dahulu
 
-::
-
     pip install requests
 
 Usage
-------
 
-::
-
-    Usage:
+Usage:
         py checkBTC.py
