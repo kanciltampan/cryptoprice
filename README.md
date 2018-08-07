@@ -6,5 +6,4 @@ Install module requests terlebih dahulu
 
 Usage
 -----
-	Usage:
-        		py checkBTC.py
+py checkBTC.py
